@@ -36,3 +36,4 @@ if hash[key] = nil
 else
   hash[key] += 1
  end
+ end
